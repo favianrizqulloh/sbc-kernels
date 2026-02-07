@@ -44,7 +44,7 @@ on:
         type: boolean
 
 env:
-  TZ: Etc/UTC
+  TZ: Asia/Jakarta
 
 jobs:
   build:
